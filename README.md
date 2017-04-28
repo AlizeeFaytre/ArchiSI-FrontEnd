@@ -6,4 +6,4 @@
 * Esther Laurette
 * Aude De Maricourt
 
-Ce git contient un projet réalisé dans le cadre des cours à l'ISEP, plus particulièrement en cloud computing. Il s'agit ici d'aprendre les bases de GitHub et d'un développement propre. 
+Ce git contient un projet réalisé dans le cadre des cours à l'ISEP, plus particulièrement en cloud computing. Il s'agit ici d'apprendre les bases de GitHub et d'un développement propre. 
